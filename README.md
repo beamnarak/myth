@@ -1,2 +1,2 @@
-# myth
-phunin sale application
+# myth-server
+phunin sale application (server side)
